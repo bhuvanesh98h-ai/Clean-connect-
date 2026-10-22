@@ -1,0 +1,6 @@
+{
+  "name": "CleanConnect — Community Waste Management Platform",
+  "description": "A modern, full-stack civic waste reporting, complaint tracking, recycling guide, and community sanitation platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
